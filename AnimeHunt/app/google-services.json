@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652070465207",
+    "firebase_url": "https://animehunt-53360.firebaseio.com",
+    "project_id": "animehunt-53360",
+    "storage_bucket": "animehunt-53360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652070465207:android:ae4e5083d20d9ef7",
+        "android_client_info": {
+          "package_name": "anime.animehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652070465207-fkp65mrpe0sdj7387aiau740d128cpf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anime.animehunt",
+            "certificate_hash": "b242f1b6346b5d02655936f7e3b1861c7f00a774"
+          }
+        },
+        {
+          "client_id": "652070465207-2q6vafvmqn88vlbl6118silvec9q7lhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0uiyI2aFV3KRYInLt2LX9LCVi_L9lq0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652070465207-2q6vafvmqn88vlbl6118silvec9q7lhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
